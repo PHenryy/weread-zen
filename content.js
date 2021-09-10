@@ -38,7 +38,7 @@ function getCurrentMaxWidth(element) {
 function changeFont() {
   const styles = `
     * {
-      font-family: 'TsangerJinKai01-9128 W02' !important;;
+      font-family: 'TsangerJinKai01-9128 W04' !important;;
     }
   `
   const styleSheet = document.createElement('style')
